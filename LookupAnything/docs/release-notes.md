@@ -4,7 +4,8 @@
 ## Upcoming release for Stardew Valley 1.6
 * Updated for Stardew Valley 1.6.
 * Added more seed info for tree lookups.
-* Improved debug field format for player stats and schedules.
+* Improved data mining format for player stats and schedules.
+* Fixed data mining listing internal backing fields for properties.
 
 ## 1.40.3
 Released 01 November 2023 for SMAPI 3.14.0 or later.
