@@ -11,6 +11,7 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 -->
 ## Upcoming release for Stardew Valley 1.6
 * Updated for Stardew Valley 1.6.
+* When a patch fails, Content Patcher now lists all issues in `patch summary` instead of the first one.
 
 ## 1.30.3
 Released 01 November 2023 for SMAPI 3.18.1 or later.
