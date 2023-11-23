@@ -1,5 +1,10 @@
 ﻿← [author guide](../author-guide.md)
 
+**This feature is deprecated. See [Modding:Location data](https://stardewvalleywiki.com/Modding:Location_data) for help
+adding/editing locations through the built-in feature in Stardew Valley 1.6 and later.**
+
+----
+
 The `CustomLocations` feature lets you add new in-game locations, complete with their own maps and
 warps. Content Patcher automatically handles NPC pathfinding, object persistence, etc.
 

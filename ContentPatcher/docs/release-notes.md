@@ -12,6 +12,11 @@ When releasing a format change, don't forget to update the smapi.io/json schema!
 ## Upcoming release for Stardew Valley 1.6
 * Updated for Stardew Valley 1.6.
 * When a patch fails, Content Patcher now lists all issues in `patch summary` instead of the first one.
+* `CustomLocations` is now deprecated in favor of the new [`Data/Locations` asset](https://stardewvalleywiki.com/Modding:Location_data).
+  Locations added through `CustomLocations` are now added to `Data/Locations` automatically.
+
+**Update notes for mod authors:**  
+See the [migration guide](author-migration-guide.md#20) for help updating content pack code.
 
 ## 1.30.3
 Released 01 November 2023 for SMAPI 3.18.1 or later.
